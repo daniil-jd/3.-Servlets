@@ -1,0 +1,11 @@
+ru\ivmiit\servlets\Box.class
+ru\ivmiit\servlets\CostCalculator.class
+ru\ivmiit\servlets\HelloServlet.class
+ru\ivmiit\servlets\HomeServlet.class
+ru\ivmiit\servlets\service\HibernateConfiguration.class
+ru\ivmiit\servlets\CostServlet.class
+ru\ivmiit\servlets\service\ProductService.class
+ru\ivmiit\servlets\Table.class
+ru\ivmiit\servlets\service\ProductServiceImpl.class
+ru\ivmiit\servlets\entity\Product.class
+ru\ivmiit\servlets\ProductServlet.class
